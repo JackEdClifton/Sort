@@ -27,7 +27,7 @@
     <ClInclude Include="src\mergeSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\sort.h">
+    <ClInclude Include="src\radixSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
